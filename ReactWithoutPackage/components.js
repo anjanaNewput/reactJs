@@ -28,34 +28,42 @@ class Header extends React.Component {
 }
 
 class NavComponent extends React.Component {
-  constructor(){
-    super();
+  constructor(props){
+    super(props);
     this.state = {
-      listItems: [{name: 'Render List Component', id:1, value: 'List'}, {name: 'Render Form Component', id:2, value: 'Form'}, {name: 'Render Table Component', id:3, value: 'Table'}, {name: 'Render Paragraph', id:4, value: 'Para'}] 
+      page: '',
+      listItems: [{name: 'Render List Component', id:1, page: 'List'}, {name: 'Render Form Component', id:2, page: 'Form'}, {name: 'Render Table Component', id:3, page: 'Table'}, {name: 'Render Paragraph', id:4, page: 'Para'}] 
     };
+  }
+  pageClicked(value) {
+      this.setState({
+          page: value
+      });
   }
   render() {
     return (
         <div className="left-side-bar">
-        <ul className="list-inline">
-        {this.state.listItems.map((item) => 
-         <li key={item.id} onClick={() => this.popup(value)}><a>{item.name}</a></li>
-        )}
-       </ul>
+            <ul className="list-inline">
+            {this.state.listItems.map((item) => 
+             <li key={item.id} onClick={() => this.pageClicked(item.page)}><a>{item.name}</a></li>
+            )}
+           </ul>
+           <RightComponent page={this.state.page} />
        </div>
     );
   }
 }
-class Rightnav extends React.Component {
+
+class RightComponent extends React.Component {
   render() {
     return (
         <div className="right-side-bar">
-          <ListComponent />
-          <FormComponent />
+          {this.props.page == 'List'? <ListComponent /> : <FormComponent />}
         </div>
     );
   }
 }
+
 class ListComponent extends React.Component {
   constructor(){
       super();
