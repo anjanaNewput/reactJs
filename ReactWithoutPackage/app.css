@@ -1,0 +1,42 @@
+.left-side-bar ul {
+    padding: 0px;
+}
+.left-side-bar ul li {
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid lightgrey;
+}
+.left-side-bar ul li a {
+    text-decoration: none;
+}
+
+.right-side-bar {
+    width: 1000px;
+    margin: 0 30px 0px auto;
+    border: 1px solid lightgrey;
+    height: 660px;
+}
+
+.student-list {
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgrey;
+}
+.student-list li {
+    color: #000080;
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 1px solid red;
+}
+.list-comp {
+    margin-bottom: 40px;
+}
+.h3 {
+    text-align: center;
+}
+.form-container {
+    width: 200px;
+    margin: 0px auto;
+}
