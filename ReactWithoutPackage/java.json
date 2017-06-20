@@ -1,0 +1,91 @@
+[    
+{
+"ID":952188491,
+"Title":"Java and Mac OS X",
+"Description":"Learn the guidelines of integrating Java with native Mac OS X applications with this Devloper Reference book.nnJava is used to create nearly every type of application that exists and is one of the most required skills of employers seeking computer ...",
+"Image":"http://s.it-ebooks-api.info/9/java_and_mac_os_x.jpg",
+"isbn":"9780470525111",
+"status": "Like"
+},
+{
+"ID":1529159300,
+"Title":"Expert Oracle and Java Security",
+"SubTitle":"Programming Secure Oracle Database Applications With Java",
+"Description":"Expert Oracle and Java Security: Programming Secure Oracle Database Applications with Java provides resources that every Java and Oracle database application programmer needs to ensure that they have guarded the security of the data and identities en ...",
+"Image":"http://s.it-ebooks-api.info/6/expert_oracle_and_java_security.jpg",
+"isbn":"9781430238317",
+"status": "Like"
+},
+{
+"ID":2477896804,
+"Title":"Pro Java ME Apps",
+"SubTitle":"Building Commercial Quality Java ME Apps",
+"Description":"Pro Java ME Apps gives you, the developer, the know-how required for writing sophisticated Java ME applications and for taking advantage of this huge potential market. Java ME is the largest mobile software platform in the world, supported by over 80 ...",
+"Image":"http://s.it-ebooks-api.info/6/pro_java_me_apps.jpg",
+"isbn":"9781430233275",
+"status": "Like"
+},
+{
+"ID":2005343385,
+"Title":"Java 7 Pocket Guide, 2nd Edition",
+"SubTitle":"Instant Help for Java Programmers",
+"Description":"When you need quick answers for developing or debugging Java programs, this pocket guide provides a handy reference to the standard features of the Java programming language and its platform. You'll find helpful programming examples, tables, figures, ...",
+"Image":"http://s.it-ebooks-api.info/3/java_7_pocket_guide_2nd_edition.jpg",
+"isbn":"9781449343569",
+"status": "Like"
+},
+{
+"ID":356796117,
+"Title":"Java 8 Pocket Guide",
+"SubTitle":"Instant Help for Java Programmers",
+"Description":"When you need quick answers for developing or debugging Java programs, this pocket guide provides a handy reference to standard features of the Java programming language and its platform. You'll find helpful programming examples, tables, figures, and ...",
+"Image":"http://s.it-ebooks-api.info/3/java_8_pocket_guide.jpg",
+"isbn":"9781491900864",
+"status": "Like"
+},
+{
+"ID":4195893477,
+"Title":"Java EE 7 with GlassFish 4 Application Server",
+"SubTitle":"A practical guide to install and configure the GlassFish 4 application server and develop Java EE 7 applications to be deployed to this server",
+"Description":"GlassFish is a free, open source application server which supports all the major Java features such as Enterprise JavaBeans, JPA, JavaServer Faces, JMS, RMI, JavaServer Pages, and servlets. It is the first Java EE 7 compliant application server. All ...",
+"Image":"http://s.it-ebooks-api.info/14/java_ee_7_with_glassfish_4_application_server.jpg",
+"isbn":"9781782176886",
+"status": "Like"
+},
+{
+"ID":3343145327,
+"Title":"Scala for Java Developers",
+"SubTitle":"Build reactive, scalable applications and integrate Java code with the power of Scala",
+"Description":"Scala for Java Developers is a step-by-step guide full of easy-to-follow code taken from real-world examples explaining the migration and integration of Scala in a Java project.nnWith this book, you will first get comfortable with the Scala syntax ...",
+"Image":"http://s.it-ebooks-api.info/14/scala_for_java_developers.jpg",
+"isbn":"9781783283637",
+"status": "Like"
+},
+{
+"ID":2276579723,
+"Title":"Functional Programming in Java",
+"SubTitle":"Harnessing the Power Of Java 8 Lambda Expressions",
+"Description":"Get ready to program in a whole new way. Functional Programming in Java will help you quickly get on top of the new, essential Java 8 language features and the functional style that will change and improve your code. This short, targeted book will he ...",
+"Image":"http://s.it-ebooks-api.info/1/functional_programming_in_java.jpg",
+"isbn":"9781937785468",
+"status": "Like"
+},
+{
+"ID":1334237473,
+"Title":"Learn Java for Web Development",
+"SubTitle":"Modern Java Web Development",
+"Description":"Web development is still one of today's most popular, active, and important programming and development activities. From a single web page to an e-commerce-enabled web site to a fully-fledged web application, the Java programming language and its fra ...",
+"Image":"http://s.it-ebooks-api.info/6/learn_java_for_web_development.jpg",
+"isbn":"9781430259831",
+"status": "Like"
+},
+{
+"ID":128754249,
+"Title":"Java EE 7 Development with WildFly",
+"SubTitle":"Leverage the power of the WildFly application server from JBoss to develop modern Java EE 7 applications",
+"Description":"Java Enterprise Edition is a well-known platform for application development. Its seventh release brings many new features and API improvements. WildFly is a successor of the JBoss Application Server family and fully implements the Java EE 7 standard ...",
+"Image":"http://s.it-ebooks-api.info/14/java_ee_7_development_with_wildfly.jpg",
+"isbn":"9781782171980",
+"status": "Like"
+}
+]

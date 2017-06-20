@@ -1,0 +1,92 @@
+[
+{
+"ID":2811179651,
+"Title":"PHP Solutions, 3rd Edition",
+"SubTitle":"Dynamic Web Design Made Easy",
+"Description":"This is the 3rd edition of David Powers' highly-respected PHP Solutions: Dynamic Web Design Made Easy. This new edition has been updated by David to incorporate changes to PHP since the second edition and to offer the latest techniquesu2014a classic gu ...",
+"Image":"http://s.it-ebooks-api.info/6/php_solutions_3rd_edition.jpg",
+"isbn":"9781484206362",
+"status": "Like"
+},
+{
+"ID":3426521078,
+"Title":"PHP: The Good Parts",
+"SubTitle":"Delivering the Best of PHP",
+"Description":"Get past all the hype about PHP and dig into the real power of the language. This book explores the most useful features of PHP and how they can speed up the web development process, and explains why the most commonly used PHP elements are often misu ...",
+"Image":"http://s.it-ebooks-api.info/3/php_the_good_parts.jpg",
+"isbn":"9780596804374",
+"status": "Like"
+},
+{
+"ID":427318464,
+"Title":"Pro PHP Application Performance",
+"SubTitle":"Tuning PHP Web Projects for Maximum Performance",
+"Description":"This book contains tips, tricks, and techniques to make new and existing PHP applications much faster and less resource-hungry.nnPro PHP Application Performance will help you understand all the technologies and components which play a role in how w ...",
+"Image":"http://s.it-ebooks-api.info/6/pro_php_application_performance.jpg",
+"isbn":"9781430228981",
+"status": "Like"
+},
+{
+"ID":4211610545,
+"Title":"PHP & MySQL: The Missing Manual, 2nd Edition",
+"SubTitle":"The book that should have been in the box",
+"Description":"If you can build websites with CSS and JavaScript, this book takes you to the next level - creating dynamic, database-driven websites with PHP and MySQL. Learn how to build a database, manage your content, and interact with users. With step-by-step t ...",
+"Image":"http://s.it-ebooks-api.info/3/php__mysql_the_missing_manual_2nd_edition.jpg",
+"isbn":"9781449325572",
+"status": "Like"
+},
+{
+"ID":1167030458,
+"Title":"Node.js for PHP Developers",
+"SubTitle":"Porting PHP to Node.js",
+"Description":"If you're an experienced PHP developer, you already have a head start on learning how to write Node.js code. In this book, author Daniel Howard demonstrates the remarkable similarities between the two languages, and shows you how to port your entire ...",
+"Image":"http://s.it-ebooks-api.info/3/node.js_for_php_developers.jpg",
+"isbn":"9781449333607",
+"status": "Like"
+},
+{
+"ID":1135257952,
+"Title":"The PHP Anthology, Volume 1",
+"SubTitle":"Object Oriented PHP Solutions",
+"Description":"A compilation of best practice solutions to common Web Development problems in PHP, focusing on the achievement of practical goals by applying well-structured, object orientated software design principles.nnIn addition to being an excellent referen ...",
+"Image":"http://s.it-ebooks-api.info/7/the_php_anthology_volume_1.jpg",
+"isbn":"9780957921856",
+"status": "Like"
+},
+{
+"ID":4171804729,
+"Title":"CodeIgniter for Rapid PHP Application Development",
+"SubTitle":"Improve your PHP coding productivity with the free compact open-source MVC CodeIgniter framework!",
+"Description":"CodeIgniter (CI) is a powerful open-source PHP framework with a very small footprint, built for PHP coders who need a simple and elegant toolkit to create full-featured web applications. CodeIgniter is an MVC framework, similar in some ways to the Ra ...",
+"Image":"http://s.it-ebooks-api.info/14/codeigniter_for_rapid_php_application_development.jpg",
+"isbn":"9781847191748",
+"status": "Like"
+},
+{
+"ID":590620357,
+"Title":"PHP 5 E-commerce Development",
+"SubTitle":"Create a flexible framework in PHP for a powerful e-commerce solution",
+"Description":"The popularity of online shopping has increased dramatically over the past few years. There are plenty of options available if you not are planning to build your own e-commerce solution but sometimes it's better to use your own solutions. It may be e ...",
+"Image":"http://s.it-ebooks-api.info/14/php_5_e-commerce_development.jpg",
+"isbn":"9781847199645",
+"status": "Like"
+},
+{
+"ID":3896293091,
+"Title":"Instant Simple Botting with PHP",
+"SubTitle":"Enhance your botting skills and create your own web bots with PHP",
+"Description":"Bots can be used effortlessly to execute projects and tasks that will save time and funds. Bots are powerful tools that should be in every knowledgeable programmer's toolbox. Developing and integrating bots into your programs may be easier than expec ...",
+"Image":"http://s.it-ebooks-api.info/14/instant_simple_botting_with_php.jpg",
+"isbn":"9781782169291",
+"status": "Like"
+},
+{
+"ID":3791959216,
+"Title":"PHP Cookbook, 3rd Edition",
+"SubTitle":"Solutions & Examples for PHP Programmers",
+"Description":"Want to understand a certain PHP programming technique? Or learn how to accomplish a particular task? This cookbook is the first place to look. With more than 350 code-rich recipes revised for PHP 5.4 and 5.5, this third edition provides updated solu ...",
+"Image":"http://s.it-ebooks-api.info/3/php_cookbook_3rd_edition.jpg",
+"isbn":"9781449363758",
+"status": "Like"
+}
+]

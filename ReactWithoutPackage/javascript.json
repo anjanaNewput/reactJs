@@ -1,0 +1,92 @@
+[
+{
+"ID":3285308904,
+"Title":"JavaScript Enlightenment",
+"SubTitle":"From Library User to JavaScript Developer",
+"Description":"If you're an advanced beginner or intermediate JavaScript developer, JavaScript Enlightenment will solidify your understanding of the language - especially if you use a JavaScript library. In this concise book, JavaScript expert Cody Lindley (jQuery ...",
+"Image":"http://s.it-ebooks-api.info/3/javascript_enlightenment.jpg",
+"isbn":"9781449342883",
+"status": "Like"
+},
+{
+"ID":1195998323,
+"Title":"JavaScript: The Good Parts",
+"SubTitle":"Unearthing the Excellence in JavaScript",
+"Description":"Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a su ...",
+"Image":"http://s.it-ebooks-api.info/3/javascript_the_good_parts.jpg",
+"isbn":"9780596517748",
+"status": "Like"
+},
+{
+"ID":2665263185,
+"Title":"The Little Book on CoffeeScript",
+"SubTitle":"The JavaScript Developer's Guide to Building Better Web Apps",
+"Description":"This little book shows JavaScript developers how to build superb web applications with CoffeeScript, the remarkable little language that's gaining considerable interest. Through example code, this guide demonstrates how CoffeeScript abstracts JavaScr ...",
+"Image":"http://s.it-ebooks-api.info/3/the_little_book_on_coffeescript.jpg",
+"isbn":"9781449321055",
+"status": "Like"
+},
+{
+"ID":1689934194,
+"Title":"Learning JavaScript Design Patterns",
+"SubTitle":"A JavaScript and jQuery Developer's Guide",
+"Description":"If you want to write beautiful, structured, and maintainable JavaScript code, this guide shows you how to apply both classical and modern design patterns to the language. The patterns in this book provide reusable code solutions to common problems in ...",
+"Image":"http://s.it-ebooks-api.info/3/learning_javascript_design_patterns.jpg",
+"isbn":"9781449331818",
+"status": "Like"
+},
+{
+"ID":1200562951,
+"Title":"The Book of JavaScript, 2nd Edition",
+"SubTitle":"A Practical Guide to Interactive Web Pages",
+"Description":"With JavaScript, you can add interactivity, animation, and other tricks to your web pages quickly. But this isn't just a book of scripts for you to cut and paste into your HTML, only to find out later that nothing works as you'd expected. Using real- ...",
+"Image":"http://s.it-ebooks-api.info/15/the_book_of_javascript_2nd_edition.jpg",
+"isbn":"9781593271060",
+"status": "Like"
+},
+{
+"ID":3812702641,
+"Title":"JavaScript Testing with Jasmine",
+"SubTitle":"JavaScript Behavior-Driven Development",
+"Description":"Get a concise introduction to Jasmine, the popular behavior-driven testing framework for JavaScript. This practical guide shows you how to write unit tests with Jasmine that automatically check for bugs in your application. Learn how to write specifi ...",
+"Image":"http://s.it-ebooks-api.info/3/javascript_testing_with_jasmine.jpg",
+"isbn":"9781449356378",
+"status": "Like"
+},
+{
+"ID":469878427,
+"Title":"JavaScript for PHP Developers",
+"SubTitle":"A Concise Guide to Mastering JavaScript",
+"Description":"If you want to significantly expand your web development skills beyond PHP, this practical, hands-on book teaches you ECMAScript - the core JavaScript language - from the ground up. You'll discover some similarities between JavaScript and PHP, such a ...",
+"Image":"http://s.it-ebooks-api.info/3/javascript_for_php_developers.jpg",
+"isbn":"9781449320195",
+"status": "Like"
+},
+{
+"ID":2752282535,
+"Title":"JavaScript Testing",
+"SubTitle":"Test and debug JavaScript the easy way",
+"Description":"JavaScript is an important part of web development in today's Web 2.0 world. While there are many JavaScript frameworks in the market, learning to write, test, and debug JavaScript without the help of any framework will make you a better JavaScript d ...",
+"Image":"http://s.it-ebooks-api.info/14/javascript_testing.jpg",
+"isbn":"9781849510004",
+"status": "Like"
+},
+{
+"ID":3733509927,
+"Title":"Object-Oriented JavaScript",
+"SubTitle":"Create scalable, reusable high-quality JavaScript applications, and libraries",
+"Description":"This book treats JavaScript as a serious object-oriented language, showing you how to build robust, maintainable, and powerful libraries and applications. Along the way, we cover many of the recent innovations such as AJAX, JSON, and interesting desi ...",
+"Image":"http://s.it-ebooks-api.info/14/object-oriented_javascript.jpg",
+"isbn":"9781847194145",
+"status": "Like"
+},
+{
+"ID":541428686,
+"Title":"Learning Three.js: The JavaScript 3D Library for WebGL",
+"SubTitle":"Create and animate stunning 3D graphics using the open source Three.js JavaScript library",
+"Description":"Three.js is a JavaScript 3D library that offers a wide range of features for creating and displaying stunning 3D computer graphics on a web browser in an intuitive manner using JavaScript without having to deal with the complexity of a WebGL low-leve ...",
+"Image":"http://s.it-ebooks-api.info/14/learning_three.js_the_javascript_3d_library_for_webgl.jpg",
+"isbn":"9781782166283",
+"status": "Like"
+}
+]

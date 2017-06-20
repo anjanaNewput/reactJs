@@ -1,0 +1,93 @@
+[
+    
+{
+"ID":1974078437,
+"Title":"Python Pocket Reference, 4th Edition",
+"SubTitle":"Python in Your Pocket",
+"Description":"This is the book to reach for when you're coding on the fly and need an answer now. It's an easy-to-use reference to the core language, with descriptions of commonly used modules and toolkits, and a guide to recent changes, new features, and upgraded ...",
+"Image":"http://s.it-ebooks-api.info/3/python_pocket_reference_fourth_edition.jpg",
+"isbn":"9780596158088",
+"status": "Like"
+},
+{
+"ID":374053777,
+"Title":"Python for Unix and Linux System Administration",
+"SubTitle":"Efficient Problem Solving with Python",
+"Description":"Python is an ideal language for solving problems, especially for Linux and Unix. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient ...",
+"Image":"http://s.it-ebooks-api.info/3/python_for_unix_and_linux_system_administration.jpg",
+"isbn":"9780596515829",
+"status": "Like"
+},
+{
+"ID":3528207506,
+"Title":"Beginning Python",
+"SubTitle":"Using Python 2.6 and Python 3.1",
+"Description":"As an open source, object-oriented programming language, Python is easy to understand, extendable, and user-friendly. This book covers every aspect of Python so that you can get started writing your own programs with Python today. Author James Payne ...",
+"Image":"http://s.it-ebooks-api.info/2/beginning_python.jpg",
+"isbn":"9780470414637",
+"status": "Like"
+},
+{
+"ID":427609632,
+"Title":"Python",
+"SubTitle":"Create - Modify - Reuse",
+"Description":"Python: Create-Modify-Reuse is designed for all levels of Python developers interested in a practical, hands-on way of learning Python development. This book is designed to show you how to use Python (in combination with the raw processing power of y ...",
+"Image":"http://s.it-ebooks-api.info/2/python.jpg",
+"isbn":"9780470259320",
+"status": "Like"
+},
+{
+"ID":4117080605,
+"Title":"Python Algorithms",
+"SubTitle":"Mastering Basic Algorithms in the Python Language",
+"Description":"Python Algorithms explains the Python approach to algorithm analysis and design. Written by Magnus Lie Hetland, author of Beginning Python, this book is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental a ...",
+"Image":"http://s.it-ebooks-api.info/6/python_algorithms.jpg",
+"isbn":"9781430232377",
+"status": "Like"
+},
+{
+"ID":3652408011,
+"Title":"Python Text Processing with NLTK 2.0 Cookbook",
+"SubTitle":"Use Python's NLTK suite of libraries to maximize your Natural Language Processing capabilities",
+"Description":"Natural Language Processing is used everywhere - in search engines, spell checkers, mobile phones, computer games - even your washing machine. Python's Natural Language Toolkit (NLTK) suite of libraries has rapidly emerged as one of the most efficien ...",
+"Image":"http://s.it-ebooks-api.info/14/python_text_processing_with_nltk_2.0_cookbook.jpg",
+"isbn":"9781849513609",
+"status": "Like"
+},
+{
+"ID":29794614,
+"Title":"Python Cookbook, 3rd Edition",
+"SubTitle":"Recipes for Mastering Python 3",
+"Description":"If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket. Packed with practical recipes written and tested with Python 3.3, this unique cookbook is for experienced Python programmers who want ...",
+"Image":"http://s.it-ebooks-api.info/3/python_cookbook_3rd_edition.jpg",
+"isbn":"9781449340377",
+"status": "Like"
+},
+{
+"ID":2510907588,
+"Title":"Programming ArcGIS 10.1 with Python Cookbook",
+"SubTitle":"Over 75 recipes to help you automate geoprocessing tasks, create solutions, and solve problems for ArcGIS with Python",
+"Description":"ArcGIS is an industry standard geographic information system from ESRI.nnThis book will show you how to use the Python programming language to create geoprocessing scripts, tools, and shortcuts for the ArcGIS Desktop environment.nnThis book will ...",
+"Image":"http://s.it-ebooks-api.info/14/programming_arcgis_10.1_with_python_cookbook.jpg",
+"isbn":"9781849694445",
+"status": "Like"
+},
+{
+"ID":1470937288,
+"Title":"MySQL for Python",
+"SubTitle":"Integrate the flexibility of Python and the power of MySQL to boost the productivity of your applications",
+"Description":"Python is a dynamic programming language, which is completely enterprise ready, owing largely to the variety of support modules that are available to extend its capabilities. In order to build productive and feature-rich Python applications, we need ...",
+"Image":"http://s.it-ebooks-api.info/14/mysql_for_python.jpg",
+"isbn":"9781849510189",
+"status": "Like"
+},
+{
+"ID":1428883983,
+"Title":"Python Geospatial Development, 2nd Edition",
+"SubTitle":"Learn to build sophisticated mapping applications from scratch using Python tools for geospatial development",
+"Description":"Geospatial development links your data to places on the Earth's surface. Writing geospatial programs involves tasks such as grouping data by location, storing and analyzing large amounts of spatial information, performing complex geospatial calculati ...",
+"Image":"http://s.it-ebooks-api.info/14/python_geospatial_development_2nd_edition.jpg",
+"isbn":"9781782161523",
+"status": "Like"
+}
+]
