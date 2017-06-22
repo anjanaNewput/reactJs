@@ -1,6 +1,7 @@
 //Book Component
 import React from 'react';
 import { LeftListComponent } from './leftSideNav.js';
+import axios from 'axios';
 
 export class BookComponent extends React.Component {
     constructor(props){
@@ -20,8 +21,19 @@ export class BookComponent extends React.Component {
             counts: countObj
         });
     }
+    
+    componentDidMount() {
+        this.loadData('php');
+    }
+    
+    componentWillReceiveProps(nextProps) {
+        this.loadData(nextProps.page);
+    }
+    
     loadData(page) {
-        $.getJSON( "./" +page + ".json").then((JsonList) => this.setState({ bookList: $.parseJSON(JSON.stringify(JsonList)) }));
+        axios.get("http://it-ebooks-api.info/v1/search/book/" +page).then((response) =>
+            {this.setState({ bookList: response.data.Books})})
+            .catch((error) => {console.log();});
     }
     
     toggleCount(event) {
@@ -38,7 +50,6 @@ export class BookComponent extends React.Component {
         }
     }
     render() {
-        this.loadData(this.props.page);
         return (
             <div className="container-fluid">
                <div className="col-md-3"><LeftListComponent javaCount={this.state.javaCount} phpCount={this.state.phpCount} jsCount={this.state.javascriptCount} pythonCount={this.state.pythonCount}/></div>
@@ -54,7 +65,7 @@ export class BookComponent extends React.Component {
                               <div className="col-md-9 about-book">
                                   <div className="title">{item.Title}</div>
                                   <div className="desc">{item.Description}</div>
-                                  <div><button className="btn btn-primary" onClick={this.toggleCount}>{item.status}</button></div>
+                                  <div><button className="btn btn-primary" onClick={this.toggleCount}>Like</button></div>
                               </div>
                           </div>
                           </li>

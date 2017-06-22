@@ -7,7 +7,7 @@ export default class Header extends React.Component {
     this.state = {
       name: 'Book Store',
       page: '',
-      bookList: [{name: 'PHP', id: 1, page: 'php'}, {name: 'JAVASCRIPT', id: 2, page: 'javascript'}, {name: 'JAVA', id: 3, page: 'java'}, {name: 'PYTHON', id: 4, page: 'python'}]
+      bookList: [{name: 'PHP', id: 1, page: 'php'}, {name: 'JAVASCRIPT', id: 2, page: 'js'}, {name: 'JAVA', id: 3, page: 'java'}, {name: 'PYTHON', id: 4, page: 'python'}]
     };
   }
   
