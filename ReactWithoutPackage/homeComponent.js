@@ -1,7 +1,7 @@
 import React from 'react';
 import {BookComponent} from './bookComponent.js';
 
-export default class Header extends React.Component {
+export default class Home extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -26,7 +26,7 @@ export default class Header extends React.Component {
                   </div>
                   <ul className="nav navbar-nav navbar-right">
                   {this.state.bookList.map((item) => 
-                   <li key={item.id} onClick={() => this.pageClicked(item.page)}><a href="#">{item.name}</a></li>
+                   <li key={item.id} onClick={() => this.pageClicked(item.page)}><a>{item.name}</a></li>
                   )}
                   </ul>
                 </div>
